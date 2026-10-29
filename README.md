@@ -40,16 +40,7 @@ A school management project designed to organize student registrations and educa
 - 💾 LocalStorage
 - 🔧 Git & GitHub
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrymaz&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrymaz&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
