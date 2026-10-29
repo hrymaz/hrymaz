@@ -29,12 +29,6 @@
 
 ---
 
-## 📂 Featured Project
-
-### 🎓 Nour Academy
-
-A school management project designed to organize student registrations and educational information.
-
 - 🌐 HTML & CSS
 - ⚡ JavaScript
 - 💾 LocalStorage
