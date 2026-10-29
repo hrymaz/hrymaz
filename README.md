@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Morocco</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Web+Development;HTML+%7C+CSS+%7C+JavaScript;Learning+Every+Day;Building+My+Future+in+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Web+Development;HTML+%7C+CSS+%7C+JavaScript;Go+%7C+Python;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -12,27 +12,28 @@
 
 - 🎓 Web Development Student
 - 💻 Learning HTML, CSS & JavaScript
-- 🎨 Interested in responsive and modern web design
+- 🐹 Exploring Go programming
+- 🐍 Learning Python
+- 🎨 Interested in modern and responsive web design
 - 🛠️ Building projects to improve my skills
-- 📚 Learning programming step by step
 - 🎯 My goal is to become a Full Stack Developer
 - 🇲🇦 Based in Morocco
 
 ---
 
-## 💻 My Skills
+## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,go,python,git,github,vscode" />
 </p>
 
 ---
 
-## 📂 My Projects
+## 📂 Featured Project
 
 ### 🎓 Nour Academy
 
-A school management project designed to organize student registrations and help manage educational information.
+A school management project designed to organize student registrations and educational information.
 
 - 🌐 HTML & CSS
 - ⚡ JavaScript
