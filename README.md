@@ -6,7 +6,7 @@
 </p>
 
 ---
-@@ -12,6 +12,7 @@
+
 
 - 🎓 Web Development Student
 - 💻 Learning HTML, CSS & JavaScript
@@ -14,7 +14,7 @@
 - 🐹 Exploring Go programming
 - 🐍 Learning Python
 - 🎨 Interested in modern and responsive web design
-@@ -24,17 +25,18 @@
+
 ## 💻 Tech Stack
 
 <p align="left">
@@ -36,7 +36,6 @@
 
 ## 🌐 Connect With Me
 
-@@ -56,4 +58,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer" />
 </p>
