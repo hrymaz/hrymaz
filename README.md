@@ -1,60 +1,178 @@
-# 👋 Hi, I'm Mohamed Hrymaz 🇲🇦
+[README (1).md](https://github.com/user-attachments/files/35098040/README.1.md)
+```{=html}
+<!-- ================= HEADER ================= -->
+```
+`<picture>`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="./dark.svg">`{=html}
+`<img alt="Mohamed Hrymaz GitHub Banner" src="./light.svg" width="100%">`{=html}
+`</picture>`{=html}
 
-<h3 align="center">Aspiring Full Stack Developer | Morocco</h3>
-
+```{=html}
+<h1 align="center">
+```
+Hi, I'm Mohamed Hrymaz 👋
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Aspiring Full Stack Developer from Morocco 🇲🇦
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Web+Development;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS;Go+%7C+Python;Always+Learning+New+Things" />
+```
+Building • Learning • Shipping
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Web Development Student
-- 💻 Learning HTML, CSS & JavaScript
-- 🎨 Learning Tailwind CSS
-- 🐹 Exploring Go programming
-- 🐍 Learning Python
-- 🎨 Interested in modern and responsive web design
-- 🛠️ Building projects to improve my skills
-- 🎯 My goal is to become a Full Stack Developer
-- 🇲🇦 Based in Morocco
+-   🌍 Based in Morocco
+-   💻 Aspiring Full Stack Developer
+-   🌱 Currently improving my programming skills
+-   🚀 Building projects and learning new technologies
+-   🎯 Goal: Become a Professional Full Stack Developer
+-   📧 Email: <hrymazmohamed@gmail.com>
+-   💼 LinkedIn: [Mohamed
+    Hrymaz](https://www.linkedin.com/in/mohamed-hrymaz-41a2b1328/)
 
----
+------------------------------------------------------------------------
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,go,python,git,github,vscode" />
+### Languages
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,js,python,go" alt="HTML, CSS, JavaScript, Python and Go">`{=html}
+```{=html}
 </p>
+```
+### Frontend
 
-### Technologies
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="HTML, CSS and Tailwind CSS">`{=html}
+```{=html}
+</p>
+```
+### Backend
 
-- 🌐 HTML & CSS
-- 🎨 Tailwind CSS
-- ⚡ JavaScript
-- 💾 LocalStorage
-- 🔧 Git & GitHub
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=js,go,python" alt="JavaScript, Go and Python">`{=html}
+```{=html}
+</p>
+```
+### Tools
 
----
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=vscode,git,github,vite" alt="VS Code, Git, GitHub and Vite">`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Statistics
+
+```{=html}
+<p align="center">
+```
+`<img
+    src="https://streak-stats.demolab.com?user=hrymaz&theme=tokyonight&hide_border=true&background=0A101F&ring=A78BFA&fire=22D3EE&currStreakLabel=10B981"
+    width="100%"
+    alt="GitHub Streak"
+  />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img
+    src="YOUR_VERCEL_INSTANCE_URL/api?username=hrymaz&show_icons=true&theme=transparent&hide_border=true&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&hide_rank=true"
+    width="49%"
+    alt="GitHub Stats"
+  />`{=html} `<img
+    src="YOUR_VERCEL_INSTANCE_URL/api/top-langs/?username=hrymaz&layout=compact&theme=transparent&hide_border=true&bg_color=0A101F&title_color=A78BFA&text_color=C9D1D9"
+    width="49%"
+    alt="Top Languages"
+  />`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🐍 Contribution Snake
+
+```{=html}
+<p align="center">
+```
+`<picture>`{=html} `<source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hrymaz/hrymaz/output/github-contribution-grid-snake-dark.svg"
+    />`{=html} `<img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/hrymaz/hrymaz/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />`{=html} `</picture>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/hrymaz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⚡ My Motto
-
-> "Every expert was once a beginner."
-
+```{=html}
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer" />
+```
+`<a href="https://www.linkedin.com/in/mohamed-hrymaz-41a2b1328/">`{=html}
+`<img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />`{=html} `</a>`{=html}   
+`<a href="mailto:hrymazmohamed@gmail.com">`{=html} `<img
+      src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />`{=html} `</a>`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+Portfolio: Coming Soon 🚀
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+`<i>`{=html}Building my future, one commit at a time.`</i>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+⭐ Thanks for visiting my profile!
+```{=html}
+</p>
+```
